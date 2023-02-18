@@ -1,0 +1,20 @@
+@use'./variables'
+
+@mixin center 
+    display: flex
+    justify-content: center
+    align-items: center
+
+@mixin btn 
+    padding: 1rem 1.2rem
+    color: variables.$text-color
+    background: variables.$gradient
+    border-radius: variables.$card-border-radius
+    text-decoration: none
+    broder-radius: 3rem
+
+@mixin gradient-border 
+    content: ""
+    background: variables.$gradient
+    height: 3px
+    width: 30%
