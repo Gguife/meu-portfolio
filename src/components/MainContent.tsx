@@ -1,6 +1,6 @@
 import React from 'react'
 import '../styles/components/maincontent.sass';
-import { AboutContainer } from './aboutContainer';
+import { AboutContainer } from './AboutContainer';
 import { ProjetosContainer } from './ProjetosContainer';
 import TechnologiesContainer from './TecnologiesContainer';
 
