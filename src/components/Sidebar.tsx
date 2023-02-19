@@ -12,7 +12,7 @@ export const Sidebar = () => {
       <p className="title">Desenvolvedor Front-end</p>
       <SocialNetwork/>
       <InformationContainer/>
-      <a href='https://1drv.ms/b/s!ApjOM_yVkUQHiw6r1aBjMp9xcALg?e=pFEOHI' className='btn'>Download currículo</a>
+      <a href='https://1drv.ms/b/s!ApjOM_yVkUQHiw-wYNYlunslXjZK?e=Eg6PY4' className='btn'>Download currículo</a>
     </aside>
   )
 }
